@@ -7,17 +7,26 @@ MapleStory Worlds X Super Hackathon 2022 (개발 + 기획 트랙팀)
 - [세종대학교 컴퓨터공학과 이은주 (게임 스토리 기획 및 개발)][3]
 
 ## Platform
-<img src="./image/Logo.png"><br>
+<img src="./image/Logo.png" width="300"><br>
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-## Game Intro
+## Game Play
 <div align="left">
   <a href="https://maplestoryworlds.nexon.com/play/5bdc68babd4a462eabcfc795d6c35b3d">
-    <img src="./image/main.png" alt="탐정 페페">
+    <img src="./image/main.jpg" alt="탐정 페페" width="500">
   </a><br>
   <b>▲ 탐정 페페 게임 링크</b>
 </div>
-<br>
+
+## Game Intro
+<div align="left">
+  <a><img src="./image/game1.png"></a>
+  <b><img src="./image/game1.png"></b>
+  <c><img src="./image/game1.png"></c>
+  <d><img src="./image/game1.png"></d>
+  <e><img src="./image/game1.png"></e>
+  <f><img src="./image/game1.png"></f>
+</div>
 메이플스토리를 오래 즐겨온 코어 유저들의 흥미를 끌었던 이벤트 명탐정 페페를 기억하는 유저들이 있습니다.<br>
 이러한 코어 유저들의 향수를 불러올 수 있는 명탐정 페페와 함께 진정한 탐정으로 거듭납니다.<br>
 또한 지루하지 않게 스토리를 넣어 다양한 유저들이 즐길 수 있게 만들었습니다.<p>
