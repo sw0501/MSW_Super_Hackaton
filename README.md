@@ -19,14 +19,22 @@ MapleStory Worlds X Super Hackathon 2022 (개발 + 기획 트랙팀)
 </div>
 
 ## Game Intro
-<div align="left">
-  <a><img src="./image/game1.png"></a>
-  <b><img src="./image/game1.png"></b>
-  <c><img src="./image/game1.png"></c>
-  <d><img src="./image/game1.png"></d>
-  <e><img src="./image/game1.png"></e>
-  <f><img src="./image/game1.png"></f>
+<div align="center">
+  <a><img src="./image/game1.png" height="180"></a>
+  <b><img src="./image/game2.png" height="180"></b>
+  <c><img src="./image/game3.png" height="180"></c>
+  <br>
+  <d><img src="./image/game4.png" height="180"></d>
+  <e><img src="./image/game5.png" height="180"></e>
 </div>
+<br>
+
+|게임 설명|Game 1|Game 2|Game 3|Game 4|Game 5| 
+|-----|---|---|---|---|---|
+|개발 담당|박상욱|이규리|이은주|이은주|박상욱|
+|게임 설명|포탈 탈출 게임|어둠속에서<br>물건 찾기|낙하물을 피해<br>웡키 획득 게임|랜덤 등장 아이템<br>획득 게임|숫자 야구 게임|
+
+### 게임 소개글
 메이플스토리를 오래 즐겨온 코어 유저들의 흥미를 끌었던 이벤트 명탐정 페페를 기억하는 유저들이 있습니다.<br>
 이러한 코어 유저들의 향수를 불러올 수 있는 명탐정 페페와 함께 진정한 탐정으로 거듭납니다.<br>
 또한 지루하지 않게 스토리를 넣어 다양한 유저들이 즐길 수 있게 만들었습니다.<p>
